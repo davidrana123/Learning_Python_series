@@ -1,0 +1,5 @@
+print("enter a num")
+a = input()
+print("enter your second num")
+b = input()
+print("Thus is your nym ",int(a)+int(b))
